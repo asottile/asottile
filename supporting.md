@@ -38,6 +38,7 @@ contribute.
   through a [tidelift subscription].  I receive a small amount of funding via
   tidelift for pytest
 - using `pre-commit`? consider supporting the project through [open collective]
+- purchase a pro plan of [pre-commit.ci]
 
 [github]: https://github.com/asottile
 [twitch]: https://twitch.tv/anthonywritescode
@@ -47,3 +48,4 @@ contribute.
 [streamlabs donation]: https://streamlabs.com/anthonywritescode
 [tidelift subscription]: https://tidelift.com/subscription/pkg/pypi-pytest
 [open collective]: https://opencollective.com/pre-commit
+[pre-commit.ci]: https://github.com/marketplace/pre-commit-ci
