@@ -21,7 +21,7 @@ interact with individual content you find useful:
 
 ## monetary contributions
 
-I am currently unemployed and would love to be able to build open source
+I would love to be able to build open source
 software for a living.  These are the ways you (or your employer) can
 contribute.
 
